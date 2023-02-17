@@ -68,6 +68,5 @@ int main() {
     /* close */
     pclose(fp);
 
-    printf("\n");
     return 0;
 }
